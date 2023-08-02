@@ -1,0 +1,33 @@
+.marker{
+    height :25px;
+    width: 200px;
+    background-color: red;
+    margin: 10px auto;
+}
+.red{
+    background:linear-gradient(90deg,rgb(127,0,120),rgb(245, 62, 113),rgb(127,20,20));
+}
+.green{
+    background:linear-gradient(90deg,rgb(20,150,20),#71F53E,rgb(20,120,130));
+}
+.blue{
+    background:linear-gradient(90deg,rgb(180,120,227), hsl(223, 90%, 60%),rgb(20,120,130));;
+}
+h1{
+    text-align: center;
+}
+.container{
+   padding: 10px 0;
+}
+.sleeve{
+    width : 100px;
+    height: 25px;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.5);
+  border-left: 10px double black;
+}
+.cap{
+    width: 60px;
+    height: 25px;
+    display: inline-block;
+}
